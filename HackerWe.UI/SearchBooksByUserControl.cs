@@ -15,10 +15,6 @@ namespace HackerWe.UI
     public partial class SearchBooksByUserControl : UserControl
     {
         object list;
-        public SearchBooksByUserControl()
-        {
-            InitializeComponent();
-        }
         public SearchBooksByUserControl(object list)
         {
             InitializeComponent();
