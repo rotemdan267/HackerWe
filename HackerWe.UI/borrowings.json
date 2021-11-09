@@ -1,0 +1,83 @@
+[
+  {
+    "Id": "4543ca2e-c863-4f87-b277-96a670127184",
+    "BorowingDate": "2016-11-08T05:31:22",
+    "DueReturningDate": "2021-11-22T05:31:22",
+    "ReturningDate": "0001-01-01T00:00:00",
+    "BookId": 0,
+    "Book": {
+      "Id": 7102,
+      "ISBN": "00000000-0000-0000-0000-000000000000",
+      "Author": "O\u0027Henry",
+      "Name": "Novells",
+      "NumberOfPages": 360,
+      "NumberOfCopies": 2,
+      "NumberOfBorrowedOut": 0,
+      "DatePublished": "1932-12-17T00:00:00"
+    },
+    "ClientId": 0,
+    "Client": {
+      "Id": 1,
+      "IdentityNumber": "00000000-0000-0000-0000-000000000000",
+      "FirstName": "Stive",
+      "LastName": "Jhones",
+      "FullName": "Stive Jhones",
+      "Email": null,
+      "PhoneNumber": "054-6589874"
+    }
+  },
+  {
+    "Id": "dbbac4c7-5caa-4469-bb96-35b9a36ab3f6",
+    "BorowingDate": "2021-05-07T05:33:39",
+    "DueReturningDate": "2021-11-23T05:33:39",
+    "ReturningDate": "0001-01-01T00:00:00",
+    "BookId": 0,
+    "Book": {
+      "Id": 987,
+      "ISBN": "00000000-0000-0000-0000-000000000000",
+      "Author": "Mozes",
+      "Name": "Efshar Gam Bly Qavier",
+      "NumberOfPages": 321,
+      "NumberOfCopies": 10,
+      "NumberOfBorrowedOut": 7,
+      "DatePublished": "1947-02-01T00:00:00"
+    },
+    "ClientId": 0,
+    "Client": {
+      "Id": 2,
+      "IdentityNumber": "00000000-0000-0000-0000-000000000000",
+      "FirstName": "Mark",
+      "LastName": "Tzukerberg",
+      "FullName": "Mark Tzukerberg",
+      "Email": null,
+      "PhoneNumber": "054-6589874"
+    }
+  },
+  {
+    "Id": "25fa552c-6ff7-45ec-964a-1f275ee7ff27",
+    "BorowingDate": "2021-11-08T05:34:49",
+    "DueReturningDate": "2021-11-22T05:34:49",
+    "ReturningDate": "0001-01-01T00:00:00",
+    "BookId": 0,
+    "Book": {
+      "Id": 8567,
+      "ISBN": "00000000-0000-0000-0000-000000000000",
+      "Author": "Yogev Poren",
+      "Name": "Ginues",
+      "NumberOfPages": 0,
+      "NumberOfCopies": 2,
+      "NumberOfBorrowedOut": 0,
+      "DatePublished": "2003-03-27T00:00:00"
+    },
+    "ClientId": 0,
+    "Client": {
+      "Id": 1,
+      "IdentityNumber": "00000000-0000-0000-0000-000000000000",
+      "FirstName": "Jeff",
+      "LastName": "Bassos",
+      "FullName": "Jeff Bassos",
+      "Email": null,
+      "PhoneNumber": "054-6589874"
+    }
+  }
+]
